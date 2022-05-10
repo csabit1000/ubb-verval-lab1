@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+    <student ID="1">
+        <Name>Jozsef Attila</Name>
+        <Group>532</Group>
+    </student>
+    <student ID="2">
+        <Name>Vicc Elek</Name>
+        <Group>532</Group>
+    </student>
+    <student ID="13">
+        <Name>Ipsz Ilonka</Name>
+        <Group>532</Group>
+    </student>
+    <student ID="14">
+        <Name>Ipsz Ilonka</Name>
+        <Group>532</Group>
+    </student>
+</Entities>
